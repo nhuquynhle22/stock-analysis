@@ -10,7 +10,7 @@ While on the other hand, in 2018 the stock return isn't has lucky as 2017. Almos
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/89143725/132787875-ecd4bceb-a1be-41eb-970d-218132949d51.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/89143725/132787877-ad8267c4-45d2-48de-88f2-27c5bfa5087e.png)
 
-After examing the two reutrn years for the stocks, Steve should recommend the stocks ENPH and RUN due to their continual positive return rate during the two years. Although DQ did have a very high return in 2017, investing in multiple stocks might yield a better return for his parents.  
+After examing the two reutrn years for the stocks, Steve should recommend to his parents the stocks ENPH and RUN due to their continual positive return rate during the two years. Although DQ did have a very high return in 2017, investing in multiple stocks might yield a better return for his parents.  
 
 ## Summary
 Refactoring code always has its ups and downs. The main advantages of refactoring would be that , the code is fresher, easier to understand or read, less complex and easier to maintain. It will definitely lower the technical debt and may even increase performance. It'll also reduces bugs in code by catching them. On the other hand, the disadvantages of refactoring would be having no idea how much time it may take to complete the process. It may also land you into a situation where you have no idea where to go. Not only will it be time consuming, but if it does go wrong you will waste time tryng to find and solve the problem.
