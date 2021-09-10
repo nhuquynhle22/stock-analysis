@@ -9,6 +9,7 @@ After running the VBA macros and codes it can be seen that in 2017 mostly all th
 While on the other hand, in 2018 the stock return isn't has lucky as 2017. Almost all of the stocks except had a negative return, except for two ENPH adn RUN who both had around +80-85% return. Since Steve's parents invested in DQ they should know it had a -62.6% return that year. After the two years Steve's parents would make a +30-35% return for DQ. 
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/89143725/132787875-ecd4bceb-a1be-41eb-970d-218132949d51.png) ![VBA_Challenge_2018](https://user-images.githubusercontent.com/89143725/132787877-ad8267c4-45d2-48de-88f2-27c5bfa5087e.png)
+
 After examing the two reutrn years for the stocks, Steve should recommend the stocks ENPH and RUN due to their continual positive return rate during the two years. Although DQ did have a very high return in 2017, investing in multiple stocks might yield a better return for his parents.  
 
 ## Summary
